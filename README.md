@@ -60,7 +60,3 @@ This project enables you to control a presentation using hand gestures captured 
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or create a pull request.
-
----
-
-Feel free to customize this README further based on your project's specifics. Include more details about the project structure, dependencies, and any other relevant information.
